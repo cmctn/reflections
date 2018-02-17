@@ -10,3 +10,12 @@ my answer : working directory is the directory we are currently working on it.
 staging area is a particular area in working directory, it will contain only the files which added in it from working directory.
 and i think repository could be equal to  staging area + .git file. not sure yet
 
+
+3 How can you use the staging area to make sure you have one commit per logical change?
+
+my answer : idk what they are talking about
+
+
+4 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+my answer : we could progress our projects in a few paths. we could split into a few directions
