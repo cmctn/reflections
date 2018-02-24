@@ -26,3 +26,6 @@ my answer : we could progress our projects in a few paths. we could split into a
 my answer : Working with the diagrams, help us to understand the branch structure. We can see clearly, commits and their parent commits, and whole structure.
 
 
+6 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+my answer : it will combine the changes in two different branches. The diagram really helps us to understand 
