@@ -19,3 +19,10 @@ my answer : idk what they are talking about
 4 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 my answer : we could progress our projects in a few paths. we could split into a few directions
+
+
+5 How do the diagrams help you visualize the branch structure?
+
+my answer : Working with the diagrams, help us to understand the branch structure. We can see clearly, commits and their parent commits, and whole structure.
+
+
