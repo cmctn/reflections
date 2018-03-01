@@ -2,3 +2,9 @@
 
 my answer : if there are more than one developers, or if i can use different computers, i would want to use a remote repository.
 and probably it can be more secure.
+
+
+2 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+my answer : for now, i have no idea. maybe it can be about if some other developer changed the file i was working on, i would like to do pull changes
+manually and control it.
