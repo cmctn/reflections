@@ -8,3 +8,10 @@ and probably it can be more secure.
 
 my answer : for now, i have no idea. maybe it can be about if some other developer changed the file i was working on, i would like to do pull changes
 manually and control it.
+
+
+3 Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+my answer : fork is available between github accounts. when we you want to clone a repository, you can fork it.
+clone gets the repository from github to your local, then you can use git commands. when you need an experimental change or a risky one 
+you could create a new branch and use it for your crazy changes.
