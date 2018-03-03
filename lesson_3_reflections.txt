@@ -15,3 +15,8 @@ manually and control it.
 my answer : fork is available between github accounts. when we you want to clone a repository, you can fork it.
 clone gets the repository from github to your local, then you can use git commands. when you need an experimental change or a risky one 
 you could create a new branch and use it for your crazy changes.
+
+
+4 What is the benefit of having a copy of the last known state of the remote stored locally?
+
+my answer : it could decrease possible conflicts.
